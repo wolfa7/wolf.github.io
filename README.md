@@ -12,7 +12,7 @@
 
 <br />
 
-### Demo Screeshots
+### Screeshots
 
 ![Jack Portfolio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
